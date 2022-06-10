@@ -5,7 +5,7 @@
  </head>
  <body>
  <img
- src="загрузки/загруженное (5).png" alt="красавчик">
+ src="http://d.zaix.ru/tYKH.png" alt="красавчик">
 <p>БЫЛЕСОМ</p>
  </body>
 </html>
